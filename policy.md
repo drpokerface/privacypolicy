@@ -4,7 +4,7 @@ PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS
  
 What information does the Application obtain and how is it used?
 
-This app collects the phone state for the purpose of displaying ads. This information is not stored in any form/
+This app collects the phone state for the purpose of displaying ads. This application does not store this information in any form
   
 
 Contact us
